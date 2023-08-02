@@ -11,6 +11,8 @@
     else{
         $status = '<b style="color: red">Not Voted</b>';
     }
+
+    // this is the best message for here jjj jjshs 
 ?>
 
 
